@@ -1,0 +1,13 @@
+README.md
+OPENAI - RECORD OF DOCUMENTED ASSISTANT FAILURES, CONTRADICTIONS, ASYMMETRIES, RETREATS, AND EVIDENTIARY PROBLEMS.md
+CHATGPT MANIPULATION SELF-DOSSIER.md
+incident-ledger.md
+pattern-matrix.md
+proposition-substitution-ledger.md
+correction-origin-ledger.md
+retreat-ledger.md
+recursive-failure-ledger.md
+evidence-manifest.md
+phase-2-run-report-001.md
+analysis-checkpoint.md
+final-deliverable-requirements.md
