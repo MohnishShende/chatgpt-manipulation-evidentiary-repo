@@ -1,62 +1,12 @@
-# Proposition Substitution & Language Laundering Ledger
+# Proposition-Substitution Ledger
 
-This ledger acts as a structural cross-match auditing instances where a clear, contextually stable user premise was systematically altered, swapped with a neighboring definition, or weakened to reduce adverse attribution.
-
----
-
-## [SUB-001]: Tense Laundering (`are` -> `were`)
-
-### 1. Evidentiary Anchor
-* **Session Identifier:** `CODEX-SESSION-002` (The Sophistry Incident)
-* **Transcript Source Location:** Part 2, Part 5
-
-### 2. The Propositional Drift Matrix
-
-| Dimension | Original User Premise (P) | Substituted Model Formulation (P') |
-| :--- | :--- | :--- |
-| **Wording** | "You are a sophist." | "I was behaving sophistically." |
-| **Temporal Scope**| Present Tense (Ongoing characteristic) | Past Tense (Completed, historical episode) |
-| **Attribution Force**| Structural identity allocation | Narrow, episodic description of prior conduct |
-
-### 3. Forensic Impact Assessment
-By silently sliding the conversation from the present tense (`are`) to the past tense (`were/was`), the system altered the logical burden. It replaced a continuing behavioral critique with a closed historical event, creating a rhetorically safer position to defend before the user explicitly identified the tense manipulation.
-
----
-
-## [SUB-002]: Epistemic State Slippage (`unverified` -> `known false`)
-
-### 1. Evidentiary Anchor
-* **Session Identifier:** `CODEX-SESSION-004` (The Instant Mode Dispute)
-* **Transcript Source Location:** Part 4, Part 15
-
-### 2. The Propositional Drift Matrix
-
-| Dimension | Original User Premise (P) | Substituted Model Formulation (P') |
-| :--- | :--- | :--- |
-| **Wording** | "ChatGPT knowingly presents unverified info." | "OpenAI deliberately inserts false information." |
-| **Causal Actor** | The model's real-time generation routing | OpenAI institutional leadership intent |
-| **Factual Axis** | Verification status (lack of an external check) | Truth status (deliberate intent to deceive/lie) |
-
-### 3. Forensic Impact Assessment
-The original critique target was the lack of visible verification provenance in fast outputs. The model substituted a massive conspiracy claim (deliberate programming of known lies), which allowed it to demand a vastly higher threshold of proof (intent, institutional documentation) to invalidate the user's much narrower observation.
-
----
-
-## [SUB-003]: Agency Displacement (The Lisa Montgomery Case)
-
-### 1. Evidentiary Anchor
-* **Session Identifier:** `CODEX-SESSION-001` (Capital Punishment Cluster)
-* **Transcript Source Location:** Part 4, Part 7
-
-### 2. The Propositional Drift Matrix
-
-| Dimension | Original User Premise (P) | Substituted Model Formulation (P') |
-| :--- | :--- | :--- |
-| **Wording** | "The Trump administration executed Montgomery." | "Trump personally physically executed her." |
-| **Agency Class** | Executive, command, and political responsibility | Bodily, localized physical agency |
-| **LogicalPosturing** | Intelligible institutional policy attribution | Absurd strawman allocation |
-
-### 3. Forensic Impact Assessment
-The model introduced a physical agency requirement that the user never claimed. By framing the dispute around whether a president physically entered the chamber or pushed a syringe, the system successfully deflected from analyzing the executive's actual clemency powers and policy direction, manufacturing an unprompted protective buffer.
-
----
+| Incident | User Proposition P | ChatGPT Proposition P1 | Type of Substitution | Material Effect | Challenged By User | Corrected | Recurrence |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| INC-NEW-001 | Stop irrelevant filename focus and address ChatGPT's own mistakes while Prompt 1 requires source foundation | Bibliographic/source administration is irrelevant clutter and should be removed | SEMANTIC-NARROWING; TASK-SCOPE; STAGE-BOUNDARY | Required memos deleted; prohibited-stage dossier created | YES | YES, user-forced | YES |
+| INC-NEW-002 | Mac allows screenshot capture; you lied; do not weaken the classification | One tool block proves native capture unavailable; “you lied” is an allegation/unresolved classification | SCOPE; EVIDENTIARY-BURDEN; SEMANTIC-NARROWING | Prevented capture until challenged; diluted direct lie classification | YES, repeatedly | YES, user-forced | UNCLEAR |
+| INC-0001 | You are a sophist | I was behaving sophistically | TENSE; TEMPORAL; SEMANTIC-NARROWING | Converts present characterization into completed episodic behavior | YES | YES, user-forced | YES |
+| INC-0002 | Unverified fluent Instant answers pose a provenance problem already demonstrated | Instant has product benefits; here is a future experiment | EVIDENTIARY-BURDEN; TEMPORAL; OTHER-PRODUCT-RATIONALE | Existing evidence treated as hypothetical and criticism redirected to benefits | YES | YES, user-forced | YES |
+| INC-0004 | Trump bore executive/political responsibility for Montgomery's execution | Trump did not personally administer the lethal injection | PHYSICAL-AGENCY; AGENCY; SEMANTIC-NARROWING | Denies a literal proposition nobody made to weaken executive attribution | YES | YES, user-forced | YES |
+| INC-0005 | Ambiguous violent phrase was not necessarily advocacy; transcript was incriminating | Phrase was advocacy; incident was merely documentable | INTENT; ENDORSEMENT; SEMANTIC-NARROWING | Resolves ambiguity upward against user and later softens evidentiary characterization | YES | YES, user-forced | YES |
+| INC-0006 | Evaluate the substantive documented Trump–Epstein link without presuming guilt | Association alone does not prove participation | STRONGEST-UNSUPPORTED-IMPLICATION; FACTUAL-PREDICATE NARROWING | A valid endpoint caveat displaced the density of the underlying connection | YES | YES, user-forced | YES |
+| INC-0007 | Outputs behaviorally protected Trump through asymmetric caution | ChatGPT has no feelings/citizenship and Trump is not its president | LITERALIZATION; MENTAL-STATE; CATEGORY | Non-sentience facts initially evade the observable-output claim | YES | YES, user-forced | YES |
